@@ -1,4 +1,4 @@
-### User sing up endpoint
+### User sign up endpoint
 POST http://localhost:3001/v1/user
 Content-Type: application/json
 
@@ -10,7 +10,7 @@ Content-Type: application/json
     "email": "e2@e.com1",
     "password": "secret222"
 }
-### User sing in endpoint
+### User sign in endpoint
 POST http://localhost:3001/v1/user/login
 Content-Type: application/json 
 
